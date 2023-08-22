@@ -36,16 +36,16 @@
       "love": "c16ad7"
     },
     "serv-dark": {
-      "primary": "#e0e0e0",
-      "secondary": "#757575",
-      "tertiary": "#8500FF",
-      "quaternary": "#E4FFC7",
-      "header_background": "#2B2B2B",
-      "header_primary": "#FFFFFF",
-      "highlight": "#9267D3",
-      "danger": "#FF0184",
-      "success": "#02FF20",
-      "love": "#A30000"
+      "primary": "e0e0e0",
+      "secondary": "757575",
+      "tertiary": "8500FF",
+      "quaternary": "E4FFC7",
+      "header_background": "2B2B2B",
+      "header_primary": "FFFFFF",
+      "highlight": "9267D3",
+      "danger": "FF0184",
+      "success": "02FF20",
+      "love": "A30000"
     }
   }
 }
