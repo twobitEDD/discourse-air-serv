@@ -25,7 +25,7 @@
     },
     "air-dark": {
       "primary": "e0e0e0",
-      "secondary": "2d2d2d",
+      "secondary": "757575",
       "tertiary": "9a5cfd",
       "quaternary": "71bd9f",
       "header_background": "202020",
@@ -39,11 +39,11 @@
       "primary": "e0e0e0",
       "secondary": "757575",
       "tertiary": "8500FF",
-      "quaternary": "E4FFC7",
-      "header_background": "2B2B2B",
+      "quaternary": "02FF20A0",
+      "header_background": "202020",
       "header_primary": "FFFFFF",
       "highlight": "9267D3",
-      "danger": "FF0184",
+      "danger": "d05454",
       "success": "02FF20",
       "love": "A30000"
     }
