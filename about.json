@@ -11,18 +11,17 @@
     "serialize_topic_excerpts": true
   },
   "color_schemes": {
-
     "serv-dark": {
       "primary": "e0e0e0",
-      "secondary": "757575",
+      "secondary": "2d2d2d",
       "tertiary": "8500FF",
       "quaternary": "02FF20A0",
       "header_background": "202020",
       "header_primary": "FFFFFF",
       "highlight": "9267D3",
-      "danger": "d05454",
+      "danger": "D05454",
       "success": "02FF20",
-      "love": "A30000"
+      "love": "8500FF"
     }
   }
 }
